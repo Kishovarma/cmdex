@@ -1,0 +1,23 @@
+table{
+    border : 1px solid Green;
+    width: fit-content;
+}
+
+thead{
+    background-color: blanchedalmond;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+tbody{
+    background-color: cadetblue;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+.image1{
+    object-fit: contain;
+}
